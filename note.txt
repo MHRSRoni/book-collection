@@ -1,0 +1,2 @@
+start the express app by running the main.js
+==> node main.js
